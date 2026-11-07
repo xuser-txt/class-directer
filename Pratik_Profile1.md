@@ -1,12 +1,8 @@
+ # About Me
+## Hi, I'm Pratik 👋
 
-# jurney
-
-The sun rises high, the day begins,
- With hopes and dreams and cheerful grins.
- Each step we take, both near and far,
- Guides us closer to who we are.
-
-Through storms and trials, we learn and grow,
- Finding strength we did not know.
- And when the stars light up the night,
- We carry forward our inner light. ✨
+Passionate about Data Analytics and Business Intelligence
+== Currently learning SQL, Power BI, and Excel ==
+Interested in data visualization and dashboard development
+Always exploring new technologies and improving my problem-solving skills
+Open to collaborating on data and analytics projects
